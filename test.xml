@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<prestashop xmlns:xlink="http://www.w3.org/1999/xlink">
+<order>
+	<id>585349</id>
+	<id_address_delivery xlink:href="https://achatnature.com/api/addresses/10537841">10537841</id_address_delivery>
+	<id_address_invoice xlink:href="https://achatnature.com/api/addresses/10537840">10537840</id_address_invoice>
+	<id_cart xlink:href="https://achatnature.com/api/carts/10242950">10242950</id_cart>
+	<id_currency xlink:href="https://achatnature.com/api/currencies/1">1</id_currency>
+	<id_lang xlink:href="https://achatnature.com/api/languages/1">1</id_lang>
+	<id_customer xlink:href="https://achatnature.com/api/customers/580532">580532</id_customer>
+	<id_carrier xlink:href="https://achatnature.com/api/carriers/585">585</id_carrier>
+	<current_state xlink:href="https://achatnature.com/api/order_states/19">19</current_state>
+	<module>sfpayment</module>
+	<invoice_number>546263</invoice_number>
+	<invoice_date>2024-11-21 17:10:10</invoice_date>
+	<delivery_number>0</delivery_number>
+	<delivery_date>0000-00-00 00:00:00</delivery_date>
+	<valid>1</valid>
+	<date_add>2024-11-21 17:10:08</date_add>
+	<date_upd>2024-11-21 18:02:28</date_upd>
+	<shipping_number notFilterable="true"></shipping_number>
+	<note/>
+	<ddw_order_date>1970-01-01 00:00:00</ddw_order_date>
+	<ddw_order_time></ddw_order_time>
+	<id_shop_group>1</id_shop_group>
+	<id_shop>1</id_shop>
+	<secure_key>321a57ce8e8abcd2b69bd5bbf3e685e6</secure_key>
+	<payment>natureetdecouvertes</payment>
+	<recyclable>0</recyclable>
+	<gift>0</gift>
+	<gift_message></gift_message>
+	<mobile_theme>0</mobile_theme>
+	<total_discounts>0.000000</total_discounts>
+	<total_discounts_tax_incl>0.000000</total_discounts_tax_incl>
+	<total_discounts_tax_excl>0.000000</total_discounts_tax_excl>
+	<total_paid>21.000000</total_paid>
+	<total_paid_tax_incl>21.000000</total_paid_tax_incl>
+	<total_paid_tax_excl>17.503300</total_paid_tax_excl>
+	<total_paid_real>21.000000</total_paid_real>
+	<total_products>14.580000</total_products>
+	<total_products_wt>17.500000</total_products_wt>
+	<total_shipping>3.500000</total_shipping>
+	<total_shipping_tax_incl>3.500000</total_shipping_tax_incl>
+	<total_shipping_tax_excl>2.920000</total_shipping_tax_excl>
+	<carrier_tax_rate>20.000</carrier_tax_rate>
+	<total_wrapping>0.000000</total_wrapping>
+	<total_wrapping_tax_incl>0.000000</total_wrapping_tax_incl>
+	<total_wrapping_tax_excl>0.000000</total_wrapping_tax_excl>
+	<round_mode>2</round_mode>
+	<round_type>1</round_type>
+	<conversion_rate>1.000000</conversion_rate>
+	<reference>000585349</reference>
+<associations>
+<order_rows nodeType="order_row" virtualEntity="true">
+	<order_row>
+	<id>753502</id>
+	<product_id xlink:href="https://achatnature.com/api/products/27623">27623</product_id>
+	<product_attribute_id>0</product_attribute_id>
+	<product_quantity>1</product_quantity>
+	<product_name>Microscope de poche Carson MB+</product_name>
+	<product_reference>BL095</product_reference>
+	<product_ean13>750668011176</product_ean13>
+	<product_isbn></product_isbn>
+	<product_upc></product_upc>
+	<product_price>14.583333</product_price>
+	<id_customization xlink:href="https://achatnature.com/api/customizations/0">0</id_customization>
+	<unit_price_tax_incl>17.500000</unit_price_tax_incl>
+	<unit_price_tax_excl>14.583333</unit_price_tax_excl>
+	</order_row>
+</order_rows>
+</associations>
+</order>
+</prestashop>

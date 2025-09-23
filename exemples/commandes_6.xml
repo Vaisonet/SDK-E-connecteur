@@ -1,85 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <prestashop xmlns:xlink="http://www.w3.org/1999/xlink">
-<order>
-	<id><![CDATA[600012]]></id>
-	<id_address_delivery xlink:href="http://localhost/api/addresses/44207"><![CDATA[44207]]></id_address_delivery>
-	<id_address_invoice xlink:href="http://localhost/api/addresses/44207"><![CDATA[44207]]></id_address_invoice>
-	<id_cart xlink:href="http://localhost/api/carts/578245"><![CDATA[578245]]></id_cart>
-	<id_currency xlink:href="http://localhost/api/currencies/1"><![CDATA[1]]></id_currency>
-	<id_lang xlink:href="http://localhost/api/languages/1"><![CDATA[1]]></id_lang>
-	<id_customer xlink:href="http://localhost/api/customers/4"><![CDATA[4]]></id_customer>
-	<id_carrier xlink:href="http://localhost/api/carriers/13"><![CDATA[13]]></id_carrier>
-	<current_state xlink:href="http://localhost/api/order_states/1"><![CDATA[1]]></current_state>
-	<module><![CDATA[sfpayment]]></module>
-	<invoice_number><![CDATA[0]]></invoice_number>
-	<invoice_date><![CDATA[0000-00-00 00:00:00]]></invoice_date>
-	<delivery_number><![CDATA[0]]></delivery_number>
-	<delivery_date><![CDATA[0000-00-00 00:00:00]]></delivery_date>
-	<valid><![CDATA[0]]></valid>
-	<date_add><![CDATA[2017-11-17 15:47:57]]></date_add>
-	<date_upd><![CDATA[2017-11-17 15:47:57]]></date_upd>
-	<shipping_number notFilterable="true"></shipping_number>
-	<ref_comm_ext notFilterable="true"></ref_comm_ext>
-	<frais_facturation_ht notFilterable="true"></frais_facturation_ht>
-	<id_shop_group><![CDATA[1]]></id_shop_group>
-	<id_shop><![CDATA[1]]></id_shop>
-	<secure_key><![CDATA[03d813877b6a562915bf045074c3742d]]></secure_key>
-	<payment><![CDATA[amazon prime]]></payment>
-	<recyclable><![CDATA[0]]></recyclable>
-	<gift><![CDATA[0]]></gift>
-	<gift_message></gift_message>
-	<mobile_theme><![CDATA[0]]></mobile_theme>
-	<total_discounts><![CDATA[0.000000]]></total_discounts>
-	<total_discounts_tax_incl><![CDATA[0.000000]]></total_discounts_tax_incl>
-	<total_discounts_tax_excl><![CDATA[0.000000]]></total_discounts_tax_excl>
-	<total_paid><![CDATA[38.640122]]></total_paid>
-	<total_paid_tax_incl><![CDATA[38.640122]]></total_paid_tax_incl>
-	<total_paid_tax_excl><![CDATA[35.251300]]></total_paid_tax_excl>
-	<total_paid_real><![CDATA[0.000000]]></total_paid_real>
-	<total_products><![CDATA[25.251300]]></total_products>
-	<total_products_wt><![CDATA[26.640122]]></total_products_wt>
-	<total_shipping><![CDATA[12.000000]]></total_shipping>
-	<total_shipping_tax_incl><![CDATA[12.000000]]></total_shipping_tax_incl>
-	<total_shipping_tax_excl><![CDATA[10.000000]]></total_shipping_tax_excl>
-	<carrier_tax_rate><![CDATA[20.000]]></carrier_tax_rate>
-	<total_wrapping><![CDATA[0.000000]]></total_wrapping>
-	<total_wrapping_tax_incl><![CDATA[0.000000]]></total_wrapping_tax_incl>
-	<total_wrapping_tax_excl><![CDATA[0.000000]]></total_wrapping_tax_excl>
-	<round_mode><![CDATA[2]]></round_mode>
-	<round_type><![CDATA[2]]></round_type>
-	<conversion_rate><![CDATA[1.000000]]></conversion_rate>
-	<reference><![CDATA[600012]]></reference>
-<associations>
-<order_rows nodeType="order_row" virtualEntity="true">
-	<order_row>
-	<id><![CDATA[146386]]></id>
-	<product_id><![CDATA[1]]></product_id>
-	<product_attribute_id><![CDATA[0]]></product_attribute_id>
-	<product_quantity><![CDATA[1]]></product_quantity>
-        <product_quantity_erp><![CDATA[100]]></product_quantity_erp>
-	<product_name><![CDATA[Marbré de Foie Gras de Canard Entier mi-cuit 180g]]></product_name>
-	<product_reference><![CDATA[M507]]></product_reference>
-	<product_ean13><![CDATA[]]></product_ean13>
-	<product_upc></product_upc>
-	<product_price><![CDATA[28.057000]]></product_price>
-	<unit_price_tax_incl><![CDATA[26.640122]]></unit_price_tax_incl>
-	<unit_price_tax_excl><![CDATA[25.251300]]></unit_price_tax_excl>
-	</order_row>
-        <order_row>
-	<id><![CDATA[146387]]></id>
-	<product_id><![CDATA[2]]></product_id>
-	<product_attribute_id><![CDATA[0]]></product_attribute_id>
-	<product_quantity><![CDATA[1]]></product_quantity>
-        <product_quantity_erp><![CDATA[10]]></product_quantity_erp>
-	<product_name><![CDATA[Jus de groseille]]></product_name>
-	<product_reference><![CDATA[M508]]></product_reference>
-	<product_ean13><![CDATA[]]></product_ean13>
-	<product_upc></product_upc>
-	<product_price><![CDATA[28.057000]]></product_price>
-	<unit_price_tax_incl><![CDATA[26.640122]]></unit_price_tax_incl>
-	<unit_price_tax_excl><![CDATA[25.251300]]></unit_price_tax_excl>
-	</order_row>
-</order_rows>
-</associations>
-</order>
+	<order>
+		<id><![CDATA[600012]]></id>
+		<id_address_delivery xlink:href="http://localhost/api/addresses/44207"><![CDATA[44207]]></id_address_delivery>
+		<id_address_invoice xlink:href="http://localhost/api/addresses/44207"><![CDATA[44207]]></id_address_invoice>
+		<id_cart xlink:href="http://localhost/api/carts/578245"><![CDATA[578245]]></id_cart>
+		<id_currency xlink:href="http://localhost/api/currencies/1"><![CDATA[1]]></id_currency>
+		<id_lang xlink:href="http://localhost/api/languages/1"><![CDATA[1]]></id_lang>
+		<id_customer xlink:href="http://localhost/api/customers/4"><![CDATA[4]]></id_customer>
+		<id_carrier xlink:href="http://localhost/api/carriers/13"><![CDATA[13]]></id_carrier>
+		<current_state xlink:href="http://localhost/api/order_states/1"><![CDATA[1]]></current_state>
+		<module><![CDATA[sfpayment]]></module>
+		<invoice_number><![CDATA[0]]></invoice_number>
+		<invoice_date><![CDATA[0000-00-00 00:00:00]]></invoice_date>
+		<delivery_number><![CDATA[0]]></delivery_number>
+		<delivery_date><![CDATA[0000-00-00 00:00:00]]></delivery_date>
+		<valid><![CDATA[0]]></valid>
+		<date_add><![CDATA[2017-11-17 15:47:57]]></date_add>
+		<date_upd><![CDATA[2017-11-17 15:47:57]]></date_upd>
+		<shipping_number notFilterable="true"></shipping_number>
+		<ref_comm_ext notFilterable="true"></ref_comm_ext>
+		<frais_facturation_ht notFilterable="true"></frais_facturation_ht>
+		<id_shop_group><![CDATA[1]]></id_shop_group>
+		<id_shop><![CDATA[1]]></id_shop>
+		<secure_key><![CDATA[03d813877b6a562915bf045074c3742d]]></secure_key>
+		<payment><![CDATA[amazon prime]]></payment>
+		<recyclable><![CDATA[0]]></recyclable>
+		<gift><![CDATA[0]]></gift>
+		<gift_message></gift_message>
+		<mobile_theme><![CDATA[0]]></mobile_theme>
+		<total_discounts><![CDATA[0.000000]]></total_discounts>
+		<total_discounts_tax_incl><![CDATA[0.000000]]></total_discounts_tax_incl>
+		<total_discounts_tax_excl><![CDATA[0.000000]]></total_discounts_tax_excl>
+		<total_paid><![CDATA[38.640122]]></total_paid>
+		<total_paid_tax_incl><![CDATA[38.640122]]></total_paid_tax_incl>
+		<total_paid_tax_excl><![CDATA[35.251300]]></total_paid_tax_excl>
+		<total_paid_real><![CDATA[0.000000]]></total_paid_real>
+		<total_products><![CDATA[25.251300]]></total_products>
+		<total_products_wt><![CDATA[26.640122]]></total_products_wt>
+		<total_shipping><![CDATA[12.000000]]></total_shipping>
+		<total_shipping_tax_incl><![CDATA[12.000000]]></total_shipping_tax_incl>
+		<total_shipping_tax_excl><![CDATA[10.000000]]></total_shipping_tax_excl>
+		<carrier_tax_rate><![CDATA[20.000]]></carrier_tax_rate>
+		<total_wrapping><![CDATA[0.000000]]></total_wrapping>
+		<total_wrapping_tax_incl><![CDATA[0.000000]]></total_wrapping_tax_incl>
+		<total_wrapping_tax_excl><![CDATA[0.000000]]></total_wrapping_tax_excl>
+		<round_mode><![CDATA[2]]></round_mode>
+		<round_type><![CDATA[2]]></round_type>
+		<conversion_rate><![CDATA[1.000000]]></conversion_rate>
+		<reference><![CDATA[600012]]></reference>
+		<associations>
+			<order_rows nodeType="order_row" virtualEntity="true">
+				<order_row>
+					<id><![CDATA[146386]]></id>
+					<product_id><![CDATA[1]]></product_id>
+					<product_attribute_id><![CDATA[0]]></product_attribute_id>
+					<product_quantity><![CDATA[1]]></product_quantity>
+					<product_quantity_erp><![CDATA[100]]></product_quantity_erp>
+					<product_name><![CDATA[Marbré de Foie Gras de Canard Entier mi-cuit 180g]]></product_name>
+					<product_reference><![CDATA[M507]]></product_reference>
+					<product_ean13><![CDATA[]]></product_ean13>
+					<product_upc></product_upc>
+					<product_price><![CDATA[28.057000]]></product_price>
+					<unit_price_tax_incl><![CDATA[26.640122]]></unit_price_tax_incl>
+					<unit_price_tax_excl><![CDATA[25.251300]]></unit_price_tax_excl>
+				</order_row>
+				<order_row>
+					<id><![CDATA[146387]]></id>
+					<product_id><![CDATA[2]]></product_id>
+					<product_attribute_id><![CDATA[0]]></product_attribute_id>
+					<product_quantity><![CDATA[1]]></product_quantity>
+					<product_quantity_erp><![CDATA[10]]></product_quantity_erp>
+					<product_name><![CDATA[Jus de groseille]]></product_name>
+					<product_reference><![CDATA[M508]]></product_reference>
+					<product_ean13><![CDATA[]]></product_ean13>
+					<product_upc></product_upc>
+					<product_price><![CDATA[28.057000]]></product_price>
+					<unit_price_tax_incl><![CDATA[26.640122]]></unit_price_tax_incl>
+					<unit_price_tax_excl><![CDATA[25.251300]]></unit_price_tax_excl>
+				</order_row>
+			</order_rows>
+		</associations>
+	</order>
 </prestashop>
